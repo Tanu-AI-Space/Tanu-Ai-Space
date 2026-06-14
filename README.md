@@ -1,16 +1,38 @@
-<h1 align="center">Hi there, I'm Tanushree 👋</h1>
+
+<h1 align="center">
+  👋 Hi, I'm Tanushree
+</h1>
+
+<h3 align="center">
+  AI/ML Engineer • Deep Learning Researcher • Software Engineer
+</h3>
+
 
 <p align="center">
-  <b>M.Tech CSE @ IIT (BHU) Varanasi &nbsp;·&nbsp; Ex-SWE @ HashedIn by Deloitte &nbsp;·&nbsp; AI/ML Researcher</b>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=M.Tech+CSE+%40+IIT+(BHU)+Varanasi;AI+%7C+Deep+Learning+%7C+LLMs+%7C+RAG;Computer+Vision+Researcher;Building+Intelligent+AI+Systems"/>
+
 </p>
+
 
 <p align="center">
-  <a href="mailto:tanushree.official24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/tanushree18"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/CGPA-9.09%20%7C%20IIT%20BHU-7F77DD?style=for-the-badge"/>
-  <img src="https://komarev.com/ghpvc/?username=Tanu-Ai-Space&style=for-the-badge&color=1D9E75"/>
+
+<a href="mailto:tanushree.official24@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/tanushree18">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<img src="https://img.shields.io/badge/CGPA-9.09%20%7C%20IIT%20BHU-purple?style=for-the-badge"/>
+
+<img src="https://komarev.com/ghpvc/?username=Tanu-Ai-Space&style=for-the-badge"/>
+
 </p>
 
+
+---
 ---
 
 ## 🙋‍♀️ About Me
