@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<img src="https://img.shields.io/badge/CGPA-9.09%20%7C%20IIT%20BHU-purple?style=for-the-badge"/>
+<!-- <img src="https://img.shields.io/badge/CGPA-9.09%20%7C%20IIT%20BHU-purple?style=for-the-badge"/> -->
 
 <img src="https://komarev.com/ghpvc/?username=Tanu-Ai-Space&style=for-the-badge"/>
 
